@@ -13,8 +13,8 @@ Truly marvelous!
 
 > what I learned in life
 
-* This is a bullet point I want.
-* This is another bullet point.
+* If you love someone, set them free. If they come back, they’re yours; if they don’t, they never were.
+* 
 
  ^^
 
@@ -22,5 +22,5 @@ Truly marvelous!
 ```py
 from universe import earth
 
-show(earth.get("kaii"))
+show(earth.get("zoe"))
 ```
