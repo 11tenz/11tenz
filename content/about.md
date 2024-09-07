@@ -14,7 +14,7 @@ Truly marvelous!
 > what I learned in life
 
 * If you love someone, set them free. If they come back, they’re yours; if they don’t, they never were.
-* 
+* want to know more about me see my landing page [click me](https://guns.lol/sagar)
 
  ^^
 
