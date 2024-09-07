@@ -2,7 +2,6 @@
 
 I am kaii, open-source dev. I create apps and websites for start-ups, solopreneurs, corporations and local businesses. I truly enjoy helping businesses achieve their goals by delivering an exceptional websites and apps that communicates their business value to their target audience.
 * there are very few girls in this world who actually care about us. Stop blaming the entire men community because of some people aorund there.
-* ## It Hurts ##
 
 Here's take a look! [click me](https://online.bonjourr.fr/)
 
